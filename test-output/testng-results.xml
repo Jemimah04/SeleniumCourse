@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Demo Web Shop. Login]]>
+    </line>
+    <line>
+      <![CDATA[Demo Web Shop]]>
+    </line>
+    <line>
+      <![CDATA[Demo Web Shop. Books]]>
+    </line>
+    <line>
+      <![CDATA[Demo Web Shop. Login]]>
+    </line>
+    <line>
+      <![CDATA[Demo Web Shop]]>
+    </line>
+    <line>
+      <![CDATA[Search page displayed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-07T15:23:39 IST" name="Suite" finished-at="2024-06-07T15:24:14 IST" duration-ms="34926">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T15:23:39 IST" name="Test" finished-at="2024-06-07T15:24:14 IST" duration-ms="34926">
+      <class name="assertion_pack.ApparelTestCase_Assert">
+        <test-method signature="apparelTestCase_Assert()[pri:0, instance:assertion_pack.ApparelTestCase_Assert@5d0a1059]" started-at="2024-06-07T15:24:04 IST" name="apparelTestCase_Assert" finished-at="2024-06-07T15:24:14 IST" duration-ms="10005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Demo Web Shop. Login]]>
+            </line>
+            <line>
+              <![CDATA[Demo Web Shop]]>
+            </line>
+            <line>
+              <![CDATA[Search page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- apparelTestCase_Assert -->
+      </class> <!-- assertion_pack.ApparelTestCase_Assert -->
+      <class name="assertion_pack.TestCase02_Assert">
+        <test-method signature="testCase02_Assert()[pri:0, instance:assertion_pack.TestCase02_Assert@c88a337]" started-at="2024-06-07T15:23:53 IST" name="testCase02_Assert" finished-at="2024-06-07T15:24:04 IST" duration-ms="11070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase02_Assert -->
+      </class> <!-- assertion_pack.TestCase02_Assert -->
+      <class name="assertion_pack.TestCase01_Assert">
+        <test-method signature="testCase01_Assert()[pri:0, instance:assertion_pack.TestCase01_Assert@7e7be63f]" started-at="2024-06-07T15:23:39 IST" name="testCase01_Assert" finished-at="2024-06-07T15:23:53 IST" duration-ms="13767" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Demo Web Shop. Login]]>
+            </line>
+            <line>
+              <![CDATA[Demo Web Shop]]>
+            </line>
+            <line>
+              <![CDATA[Demo Web Shop. Books]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase01_Assert -->
+      </class> <!-- assertion_pack.TestCase01_Assert -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
